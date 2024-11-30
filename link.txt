@@ -6,3 +6,4 @@ https://api.proxyscrape.com/v3/free-proxy-list/get?request=getproxies&protocol=h
 https://api.openproxylist.xyz/http.txt
 https://raw.githubusercontent.com/TheSpeedX/PROXY-List/refs/heads/master/http.txt
 https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxies/unchecked.txt
+https://raw.githubusercontent.com/officialputuid/KangProxy/refs/heads/KangProxy/https/https.txt
