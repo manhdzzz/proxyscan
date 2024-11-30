@@ -5,4 +5,4 @@ https://api.proxyscrape.com/v2/?request=getproxies&protocol=https&timeout=10&cou
 https://api.proxyscrape.com/v3/free-proxy-list/get?request=getproxies&protocol=http&proxy_format=ipport&format=text&timeout=2019
 https://api.openproxylist.xyz/http.txt
 https://raw.githubusercontent.com/TheSpeedX/PROXY-List/refs/heads/master/http.txt
-
+https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxies/unchecked.txt
