@@ -7,3 +7,4 @@ https://api.openproxylist.xyz/http.txt
 https://raw.githubusercontent.com/TheSpeedX/PROXY-List/refs/heads/master/http.txt
 https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxies/unchecked.txt
 https://raw.githubusercontent.com/officialputuid/KangProxy/refs/heads/KangProxy/https/https.txt
+https://rcloak.com/api/proxies/raw?protocol=http
